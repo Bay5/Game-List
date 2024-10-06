@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">Games</string>
+    <string name="heroes_name">Nama Makanan</string>
+    <string name="description">Deskripsi</string>
+    <string name="about">About</string>
+    <string name="about_name">Farel Bayhaqi</string>
+    <string name="about_email">farelbayhaqi2544@gmail.com</string>
+    <string name="about_photo_desc">About photo</string>
+
+    <string-array name="data_name">
+        <item>Red Dead Redemption 2</item>
+        <item>Death Stranding</item>
+        <item>Forza Horizon 4</item>
+        <item>The Witcher 3: Wild Hunt</item>
+        <item>Hades</item>
+        <item>A Way Out</item>
+        <item>Elden Ring</item>
+        <item>Battlefield </item>
+        <item>Sekiro: Shadows Die Twice</item>
+        <item>Counter-Strike 2</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Red Dead Redemption 2 adalah game aksi-petualangan dunia terbuka yang mengikuti cerita Arthur Morgan, seorang anggota geng Van der Linde. Game ini mengeksplorasi tema persahabatan, pengkhianatan, dan kehidupan di Amerika Barat pada akhir abad ke-19. Dengan grafis yang menakjubkan dan dunia yang imersif, game ini mendapatkan pujian luas dari kritikus dan pemain.</item>
+        <item>Death Stranding adalah game aksi-petualangan yang unik yang menyoroti tema konektivitas dan isolasi. Pemain mengontrol Sam Porter Bridges, yang bertugas menghubungkan koloni-koloni di dunia pasca-apokaliptik. Dengan mekanika gameplay yang inovatif dan narasi yang dalam, game ini menawarkan pengalaman yang berbeda dari game lain di genre ini.</item>
+        <item>Forza Horizon 4 adalah game balap open-world yang berlangsung di Inggris. Game ini memperkenalkan perubahan musim dinamis, yang memengaruhi cara pemain berinteraksi dengan lingkungan dan mobil mereka. Dengan koleksi mobil yang luas dan berbagai mode permainan, game ini menawarkan pengalaman balapan yang mendebarkan.</item>
+        <item>The Witcher 3: Wild Hunt adalah game RPG dunia terbuka yang mengikuti petualangan Geralt of Rivia dalam pencarian untuk menemukan putrinya yang hilang. Game ini dikenal karena narasi yang mendalam, dunia yang kaya, dan sistem pertarungan yang kompleks. Penghargaan yang diterimanya menjadikannya salah satu game terbaik sepanjang masa.</item>
+        <item>Hades adalah game roguelike yang menggabungkan elemen aksi dan RPG. Pemain mengambil peran Zagreus, putra Hades, dalam upayanya untuk melarikan diri dari Underworld. Dengan mekanika gameplay yang responsif dan cerita yang dinamis, game ini telah mendapatkan banyak pujian dan penghargaan.</item>
+        <item>A Way Out adalah game kooperatif yang dirancang untuk dimainkan dalam dua pemain, baik secara lokal maupun online. Pemain mengendalikan dua karakter, Leo dan Vincent, yang berusaha melarikan diri dari penjara dan menghadapi tantangan di luar. Cerita yang kuat dan mekanika gameplay yang unik menjadikannya pengalaman yang mendebarkan.</item>
+        <item>Elden Ring adalah game RPG aksi dunia terbuka yang dikembangkan oleh FromSoftware. Dengan dunia yang luas dan desain level yang rumit, game ini menawarkan kebebasan eksplorasi yang besar. Dengan sistem pertarungan yang menantang dan lore yang dalam, game ini telah mendapatkan pengakuan sebagai salah satu game terbaik di tahun rilisnya.</item>
+        <item>Battlefield 1 adalah game first-person shooter yang berlatar belakang Perang Dunia I. Game ini terkenal dengan fokus pada taktik tim dan pertempuran skala besar. Dengan grafis yang realistis dan mode multiplayer yang mendalam, Battlefield 1 menawarkan pengalaman perang yang menegangkan.</item>
+        <item>Sekiro: Shadows Die Twice adalah game aksi-petualangan yang mengikuti seorang ninja bernama Sekiro dalam pencariannya untuk menyelamatkan tuannya. Game ini dikenal dengan mekanika pertarungan yang sulit dan desain dunia yang mendetail. Dengan elemen stealth dan eksplorasi, Sekiro menawarkan pengalaman gameplay yang unik.</item>
+        <item>Counter-Strike 2 adalah pembaruan untuk game multiplayer shooter yang sangat populer, Counter-Strike: Global Offensive. Game ini membawa peningkatan grafis, mekanika baru, dan pembaruan gameplay yang meningkatkan pengalaman bermain. Dengan fokus pada taktik tim, Counter-Strike 2 tetap menjadi salah satu game kompetitif paling diminati di dunia.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/rdr2</item>
+        <item>@drawable/death_stranding</item>
+        <item>@drawable/fh4</item>
+        <item>@drawable/tw3</item>
+        <item>@drawable/hades</item>
+        <item>@drawable/a_way_out</item>
+        <item>@drawable/elden_ring</item>
+        <item>@drawable/battlefield_1</item>
+        <item>@drawable/sekiro</item>
+        <item>@drawable/cs2</item>
+    </integer-array>
+
+    <string-array name="data_year">
+        <item>2018</item>
+        <item>2019</item>
+        <item>2018</item>
+        <item>2015</item>
+        <item>2020</item>
+        <item>2018</item>
+        <item>2022</item>
+        <item>2016</item>
+        <item>2019</item>
+        <item>2023</item>
+    </string-array>
+
+    <string-array name="data_dev">
+        <item>Rockstar Games</item>
+        <item>Kojima Productions</item>
+        <item>Playground Games</item>
+        <item>CD Projekt Red</item>
+        <item>Supergiant Games</item>
+        <item>Hazelight Studios</item>
+        <item>FromSoftware</item>
+        <item>DICE</item>
+        <item>FromSoftware</item>
+        <item>Valve</item>
+    </string-array>
+
+    <string-array name="data_genre">
+        <item>Action-Adventure, RPG</item>
+        <item>Action-Adventure, Stealth</item>
+        <item>Racing, Open World</item>
+        <item>Action-Adventure, RPG</item>
+        <item>Roguelike, Action</item>
+        <item>Action-Adventure, Co-op</item>
+        <item>Action-Adventure, RPG</item>
+        <item>First-Person Shooter</item>
+        <item>Action-Adventure</item>
+        <item>First-Person Shooter, Tactical</item>
+    </string-array>
+</resources>
